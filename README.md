@@ -1,7 +1,7 @@
 # Reac Music Player
 
 #### 项目介绍
-这是在[慕课网](https://www.imooc.com/video/15492)上学的，虽然有点老了，用的React 15，但我还是学到挺多东西的。
+这是在[慕课网](https://www.imooc.com/video/15492)上学的，课程虽然有点久了，用的React 15，但我还是学到挺多东西的。
 
 ### overview
 ![](./static/images/screenshot1.png)
